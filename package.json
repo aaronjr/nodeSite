@@ -1,0 +1,26 @@
+{
+  "name": "nodesite",
+  "version": "1.0.0",
+  "description": "First node site",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronjr/nodeSite.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Aaron Richards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronjr/nodeSite/issues"
+  },
+  "homepage": "https://github.com/aaronjr/nodeSite#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
